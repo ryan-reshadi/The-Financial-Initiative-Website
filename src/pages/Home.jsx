@@ -224,21 +224,29 @@ export default function Home() {
             }}
           >
             {partners.map((p) => (
-              <img
-                className="motion-partner"
+              <div
                 key={p.name}
-                src={p.img}
-                alt={p.name}
                 style={{
-                  maxHeight: 70,
-                  maxWidth: 180,
-                  width: 'auto',
-                  height: 'auto',
-                  objectFit: 'contain',
-                  display: 'block',
-                  filter: 'grayscale(20%)',
+                  width: 180,
+                  height: 70,
+                  display: 'flex',
+                  alignItems: 'center',
+                  justifyContent: 'center',
                 }}
-              />
+              >
+                <img
+                  className="motion-partner"
+                  src={p.img}
+                  alt={p.name}
+                  style={{
+                    width: '100%',
+                    height: '100%',
+                    objectFit: 'contain',
+                    display: 'block',
+                    filter: 'grayscale(20%)',
+                  }}
+                />
+              </div>
             ))}
           </div>
           <div style={{ marginTop: 36 }}>
