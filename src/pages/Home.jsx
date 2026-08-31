@@ -230,8 +230,12 @@ export default function Home() {
                 src={p.img}
                 alt={p.name}
                 style={{
-                  height: 70,
+                  maxHeight: 70,
+                  maxWidth: 180,
+                  width: 'auto',
+                  height: 'auto',
                   objectFit: 'contain',
+                  display: 'block',
                   filter: 'grayscale(20%)',
                 }}
               />
