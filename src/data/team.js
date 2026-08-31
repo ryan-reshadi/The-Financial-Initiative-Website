@@ -3,6 +3,8 @@ import ryanReshadiPhoto from '../assets/team/ryan-reshadi.png';
 import dylanEnckPhoto from '../assets/team/dylan-enck.png';
 import varunPhoto from '../assets/team/varun-panikkar.png';
 import praneelSharmaPhoto from '../assets/team/praneel-sharma.png';
+import oliverHanPhoto from '../assets/team/oliver-han.png';
+import ayushWatvePhoto from '../assets/team/ayush-watve.png';
 
 /**
  * Team members displayed on the About page.
