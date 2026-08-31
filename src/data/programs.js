@@ -1,3 +1,5 @@
+import bridgeNetworkLogo from '../assets/partners/bridge-network-logo.svg';
+
 export const programs = [
   {
     num: '01',
@@ -58,6 +60,12 @@ export const partners = [
     name: 'PinkAware',
     role: 'Community Impact Partner',
     bg: '#fff0f5',
+  },
+  {
+    img: bridgeNetworkLogo,
+    name: 'The Bridge Network',
+    role: 'Strategic Partnership',
+    bg: '#0f1419',
   },
 ];
 
