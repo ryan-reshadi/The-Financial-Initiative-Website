@@ -48,5 +48,19 @@ export const teamMembers = [
     photo: praneelSharmaPhoto,
     bio: 'Praneel Sharma is an aspiring finance bro. Over the past year, he’s been continually involved with business through grinding case studies and qualifying for States and Nationals in both the National Economics Challenge and FBLA, respectively. Off the stage, he has been actively invested in the stock market for over 2 years and has learned a lot more than any course could’ve taught him. He’s always looking forward to the next opportunity, so feel free to reach out to him any time!',
   },
+  {
+    id: 'ayush-watve',
+    name: 'Ayush Watve',
+    role: 'Vice President of Outreach',
+    photo: ayushWatvePhoto,
+    bio: 'Ayush is a student at Homestead High School who has had an interest in the stock market since grade four. That spark has been reignited in recent years as he manages his own high-yield portfolio and closely follows financial news. He holds leadership positions across several finance-focused clubs and organizations, both in and outside of school, and interned at Pantheon, a New York City-based ed-tech startup, as VP of California Expansion. Earlier in the summer of 2026, he was accepted into and completed a two-week intensive finance program in the Wharton School at the University of Pennsylvania.',
+  },
+  {
+    id: 'oliver-han',
+    name: 'Oliver Han',
+    role: 'Vice President of Public Relations',
+    photo: oliverHanPhoto,
+    bio: 'Oliver Han is a student at Homestead High School who has always been interested in the specifics on how markets behaved on a day to day basis. Fueled by this interest, he decided to dive deep into organizations and nonprofits about economics and finance. One specific nonprofit that he has found success in is EchoYouth. Being a cofounder at EchoYouth, Oliver has learned many important leadership skills and has also dove in head first into the world of financial education for the youth. Over the past three years, Oliver has also been managing his own stock portfolio, gaining hands-on investing experience that continues to fuel his love for money.',
+  },
 
 ];
