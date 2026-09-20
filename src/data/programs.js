@@ -41,8 +41,8 @@ export const impactStats = [
     desc: 'Across workshops and events',
   },
   {
-    value: 3,
-    suffix: '',
+    value: 5,
+    suffix: '+',
     label: 'Countries Reached',
     desc: 'Growing Globally',
   },
