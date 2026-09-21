@@ -52,6 +52,13 @@ test.describe('core journeys and outbound actions', () => {
     await expect(page).toHaveURL(/\/get-involved$/);
   });
 
+  test('home partnership link opens the partnerships section', async ({ page }) => {
+    await page.goto('/');
+    await page.getByRole('link', { name: 'Learn about our partnerships →' }).click();
+    await expect(page).toHaveURL(/\/about#partnerships$/);
+    await expect(page.locator('#partnerships')).toBeInViewport();
+  });
+
   test('all workshop cards and custom-session CTA are available', async ({ page }) => {
     await page.goto('/programs');
     await expect(page.getByRole('heading', { level: 3 })).toHaveCount(6);

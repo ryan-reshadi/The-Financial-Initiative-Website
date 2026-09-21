@@ -125,6 +125,9 @@ export default function Footer() {
               <span style={{ color: 'rgba(255,255,255,0.6)', fontSize: 14 }}>
                 The Bridge Network
               </span>
+              <span style={{ color: 'rgba(255,255,255,0.6)', fontSize: 14 }}>
+                Civic Capital Lab
+              </span>
             </div>
           </div>
 

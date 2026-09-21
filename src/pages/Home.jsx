@@ -252,7 +252,7 @@ export default function Home() {
           <div style={{ marginTop: 36 }}>
             <Link
               className="motion-link"
-              to="/about"
+              to="/about#partnerships"
               style={{
                 color: '#17a2d8',
                 fontWeight: 700,

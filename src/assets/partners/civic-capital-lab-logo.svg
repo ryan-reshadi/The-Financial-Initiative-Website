@@ -1,0 +1,14 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="200" height="200" fill="#fff"/>
+  <g transform="translate(61 34)">
+    <path d="M61 15c-8-8-18-12-29-12C14 3 0 17 0 35s14 32 32 32c11 0 21-5 28-13l-10-9c-4 5-10 8-17 8-10 0-18-8-18-18s8-18 18-18c7 0 13 3 17 8z" fill="#076b4b"/>
+    <rect x="39" y="43" width="10" height="24" rx="1" fill="#f2b632"/>
+    <rect x="52" y="35" width="10" height="32" rx="1" fill="#e9aa25"/>
+    <rect x="65" y="24" width="10" height="43" rx="1" fill="#f5c243"/>
+    <path d="M71 12l2.2 5.1 5.1 2.2-5.1 2.2-2.2 5.1-2.2-5.1-5.1-2.2 5.1-2.2z" fill="#e5b23e"/>
+  </g>
+  <text x="100" y="129" text-anchor="middle" fill="#073c31" font-family="Arial, sans-serif" font-size="16" font-weight="700" letter-spacing=".4">CIVIC CAPITAL LAB</text>
+  <text x="100" y="146" text-anchor="middle" fill="#d1a23a" font-family="Arial, sans-serif" font-size="8" font-weight="700" letter-spacing="3">INITIATIVE</text>
+  <path d="M20 151h160" stroke="#b99247" stroke-width="1"/>
+  <text x="100" y="161" text-anchor="middle" fill="#8b8b82" font-family="Arial, sans-serif" font-size="5" letter-spacing="1.2">RESEARCH. COLLABORATE. TRANSFORM.</text>
+</svg>

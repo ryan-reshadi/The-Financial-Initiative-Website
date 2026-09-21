@@ -220,6 +220,7 @@ export default function About() {
           </p>
 
           <div
+            id="partnerships"
             style={{
               display: 'flex',
               gap: 32,

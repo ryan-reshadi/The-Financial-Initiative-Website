@@ -1,4 +1,5 @@
 import bridgeNetworkLogo from '../assets/partners/bridge-network-logo.svg';
+import civicCapitalLabLogo from '../assets/partners/civic-capital-lab-logo.svg';
 
 export const programs = [
   {
@@ -66,6 +67,12 @@ export const partners = [
     name: 'The Bridge Network',
     role: 'Strategic Partnership',
     bg: '#0f1419',
+  },
+  {
+    img: civicCapitalLabLogo,
+    name: 'Civic Capital Lab',
+    role: 'Research & Community Partner',
+    bg: '#fff',
   },
 ];
 
