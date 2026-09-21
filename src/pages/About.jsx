@@ -200,10 +200,12 @@ export default function About() {
             Partnerships
           </span>
           <h2
+            id="partnerships"
             style={{
               fontSize: 'clamp(1.5rem, 3vw, 2rem)',
               fontWeight: 800,
               marginBottom: 12,
+              scrollMarginTop: 84,
             }}
           >
             Organizations We Partner With
@@ -220,7 +222,6 @@ export default function About() {
           </p>
 
           <div
-            id="partnerships"
             style={{
               display: 'flex',
               gap: 32,

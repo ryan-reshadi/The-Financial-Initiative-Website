@@ -43,7 +43,7 @@ export const impactStats = [
   },
   {
     value: 5,
-    suffix: '+',
+    suffix: '',
     label: 'Countries Reached',
     desc: 'Growing Globally',
   },
