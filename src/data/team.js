@@ -1,5 +1,4 @@
 import prestonLeePhoto from '../assets/team/preston-lee.png';
-import ryanReshadiPhoto from '../assets/team/ryan-reshadi.png';
 import dylanEnckPhoto from '../assets/team/dylan-enck.png';
 import varunPhoto from '../assets/team/varun-panikkar.png';
 import praneelSharmaPhoto from '../assets/team/praneel-sharma.png';
@@ -35,13 +34,6 @@ export const teamMembers = [
     role: 'Vice President of Operations',
     photo: varunPhoto,
     bio: 'Varun Panikkar has been interested in finance and investing ever since he was young. That interest led him to compete in FBLA, specifically personal finance, which he placed first at the state level, and qualified nationally. He also interned at Arecibo Ai, an early healthcare startup as a marketing intern, in which he gained real market research skills and gained exposure to capital raising. Outside of competition, he invests in the stock market and follows private equity closely, which keeps him thinking about the material beyond just tests.',
-  },
-  {
-    id: 'ryan-reshadi',
-    name: 'Ryan Reshadi',
-    role: 'Vice President of Technology',
-    photo: ryanReshadiPhoto,
-    bio: 'Ryan Reshadi, the Vice President of Technology at The Financial Initiative, is a STEM-focused student at Homestead High School who combines technical problem-solving with an interest in finance and business. He has competed nationally in FBLA and enjoys applying analytical thinking across disciplines. His experience spans programming in Python, Java, TypeScript, and C++, as well as advanced mathematics, physics, and data science concepts. He also attended Stanford Summer Session, where he completed college-level coursework alongside high-achieving students from around the world, further expanding his academic interests and exposure to advanced STEM topics. Through both competition and self-directed learning, he continues to develop the quantitative and technical skills needed to make an impact in STEM, business, and beyond.',
   },
   {
     id: 'praneel-sharma',
