@@ -75,7 +75,7 @@ export const partners = [
     bg: '#fff',
   },{
     name: 'William Blair',
-    role: 'Corporte Partner',
+    role: 'Corporate Partner',
     img: '/images.jpeg', 
     bg: '#ffffff'
   },
