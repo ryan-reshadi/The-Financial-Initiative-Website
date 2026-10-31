@@ -73,6 +73,11 @@ export const partners = [
     name: 'Civic Capital Lab',
     role: 'Research & Community Partner',
     bg: '#fff',
+  },{
+    name: 'William Blair',
+    role: 'Corporte Partner',
+    img: '/images.jpeg', 
+    bg: '#ffffff'
   },
 ];
 
