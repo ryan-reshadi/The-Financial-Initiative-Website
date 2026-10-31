@@ -81,13 +81,13 @@ export const partners = [
   },{
     name: 'Young Investors Society',
     role: 'Strategic Outreach Partner',
-    img: '/yis-logo.png', 
+    img: '/yis-logo.svg', 
     bg: '#ffffff'
   },
   {
     name: 'Dodge & Cox',
     role: 'Corporate Partner',
-    img: '/dodge-cox-logo.png', 
+    img: '/DC_socialmedia_1200x1200.png', 
     bg: '#ffffff'
   },
 ];
