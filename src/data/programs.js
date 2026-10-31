@@ -71,7 +71,7 @@ export const partners = [
   {
     img: civicCapitalLabLogo,
     name: 'Civic Capital Lab',
-    role: 'International Partner',
+    role: 'International & Research Partner',
     bg: '#fff',
   },{
     name: 'William Blair',
